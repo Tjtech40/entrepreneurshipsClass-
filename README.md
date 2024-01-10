@@ -1,1 +1,2 @@
-# entrepreneurshipsClass-
+# entrepreneurshipsClass
+Project idea pitch deck
